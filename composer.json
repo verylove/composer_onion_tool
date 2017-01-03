@@ -1,0 +1,20 @@
+{
+    "name": "yang/composer_onion_tool",
+    "description": "happy onion tools",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "YangTao",
+            "email": "431910788@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "HappyNoion\\Tool": "src/"
+        }
+    }
+    "require": {
+
+    }
+}
