@@ -13,7 +13,7 @@
         "psr-0": {
             "HappyNoion\\Tool": "src/"
         }
-    }
+    },
     "require": {
 
     }
