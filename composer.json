@@ -11,7 +11,8 @@
     ],
     "autoload": {
         "psr-0": {
-            "HappyNoion\\Tool": "src/"
+            "HappyOion\\Tool": "src/",
+            "HappyOion\\PHPExcel": "src/"
         }
     },
     "require": {
