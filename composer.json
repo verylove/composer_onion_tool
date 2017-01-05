@@ -1,8 +1,9 @@
 {
-    "name": "happynoion/composer_onion_tool",
+    "name": "happyoion/composer_onion_tool",
     "description": "happy onion tools",
-    "license": "MIT",
     "version": "1.0.0",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "YangTao",
@@ -16,6 +17,6 @@
         }
     },
     "require": {
-
+        "php": ">=5.2.6"
     }
 }
