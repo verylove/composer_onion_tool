@@ -1,21 +1,22 @@
 {
     "name": "happyoion/composer_onion_tool",
     "description": "happy onion tools",
-    "keywords": ["excel"],
+    "keywords": ["excel","onion","tools","happy"],
     "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
         {
-            "name": "YangTao",
+            "name": "Yang Tao",
             "email": "431910788@qq.com"
         }
     ],
     "autoload": {
         "psr-0": {
-            "Tool": "HappyOion/",
-            "PHPExcel": "HappyOion/"
+            "Tool": "src/",
+            "Curl": "src/",
+            "PHPExcel": "src/"
         }
     },
     "require": {
