@@ -1,9 +1,11 @@
 {
     "name": "happyoion/composer_onion_tool",
     "description": "happy onion tools",
+    "keywords": ["excel"],
     "version": "1.0.0",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "YangTao",
